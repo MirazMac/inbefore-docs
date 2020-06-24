@@ -29,7 +29,6 @@ github_username:  mirazmac
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
-theme: minima
 plugins:
   - jekyll-feed
 
