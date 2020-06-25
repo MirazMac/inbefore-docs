@@ -12,7 +12,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 InBefore is an automated news aggregator, that can import latest content from unlimited RSS feeds. With no-cost Google CSE based search engine that searches different portions of the web. Including different types of search sections, like web, videos, torrents even subtitles. No API keys are needed
 {: .fs-4 .fw-300 }
 
-[Buy on Envato](https://codecanyon.net/item/inbefore-news-aggregator-search-engine-youtube-downloader/24809255){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](#introduction){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Buy on Envato](https://codecanyon.net/item/inbefore-news-aggregator-search-engine-youtube-downloader/24809255){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Getting Started](#introduction){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -25,7 +25,7 @@ Before you start, you should take a look at the folder structure of {{ site.item
 
 | Name        | Description          |
 |:-------------|:------------------|
-| 📁 Main Files   | Contains documentation for the script|
+| 📁 Main Files   | Contains the main files|
 | 📁 Database  | Contains the SQL Dump   |
 | 📁 Upgrades            | Contains upgrade packages      |
 
